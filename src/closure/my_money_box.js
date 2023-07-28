@@ -36,7 +36,7 @@ myMoneyBox.addCoins(10);
 //   return countCoins;
 // }
 
-// PLAYGROUND PLATZI ITS WAS TOO EZ MY FRENS GIT GUT <3
+// PLAYGROUND PLATZI IT WAS TOO EZ MY FRENS GIT GUT <3
 export function createPetList() {
   let petList = [];
   // Tu código aquí 👈
